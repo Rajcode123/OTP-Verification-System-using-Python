@@ -1,12 +1,8 @@
 # OTP-Verification-System-using-Python
 
 <h3>Prerequisites</h3
-
-
 Before running the code, ensure you have:
 
-<b/>A Google Colab environment.
-
-A valid Gmail account for sending OTPs.
-
-Installed required Python libraries.
+<b>1.</b>A Google Colab environment.
+<b>2.</b>A valid Gmail account for sending OTPs.
+<b>3.</b>Installed required Python libraries.
